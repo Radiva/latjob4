@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>Index - Invent Bootstrap Template</title>
+  <title>Job 4 Uyee - Invent Bootstrap Template</title>
   <meta name="description" content="">
   <meta name="keywords" content="">
 
@@ -44,7 +44,7 @@
       <a href="index.html" class="logo d-flex align-items-center me-auto me-xl-0">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src="assets/img/logo.webp" alt=""> -->
-        <h1 class="sitename">Invent</h1><span>.</span>
+        <h1 class="sitename">Job 4 Uyee</h1><span>.</span>
       </a>
 
       @include('partials.navbar')
